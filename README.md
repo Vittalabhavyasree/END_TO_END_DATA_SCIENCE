@@ -22,3 +22,12 @@ Finally, the deliverable of an end-to-end project is a fully functional, deploye
 
 # OUTPUT
 
+<img width="1887" height="789" alt="Image" src="https://github.com/user-attachments/assets/8b6be88a-ce65-467d-bcbe-8efedbaa8d10" />
+
+<img width="1734" height="283" alt="Image" src="https://github.com/user-attachments/assets/005321ba-747a-4dd5-b750-f0de7b130103" />
+
+<img width="559" height="522" alt="Image" src="https://github.com/user-attachments/assets/32ac8f55-e162-404f-993c-00331e940127" />
+
+<img width="877" height="366" alt="Image" src="https://github.com/user-attachments/assets/77e328e1-3f55-4d9d-b9cb-d47155d11a0c" />
+
+<img width="719" height="560" alt="Image" src="https://github.com/user-attachments/assets/1edb4c74-8573-4870-887a-f536712b4d91" />
